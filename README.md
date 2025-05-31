@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD041 -->
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
     <h2 align="center"><strong>✨ Wellcome to my GitHub! ✨</strong></h2>
-  <p>Hello! I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "Jovem Programador", an initiative of SEPROSC and SENAC</p>
+  <p>Hello! I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "<a href="https://www.jovemprogramador.com.br">Jovem Programador</a>"</p>
   <p>Currently focused on learning web development</p>
 </div>
 
@@ -44,7 +44,7 @@
     <h2 align="center">📸 My social media and contact 📸</h2>
 </div>
 
-<p>I'm very grateful for you to seeing that, if you want to contact me and talk about anything or just play something, there is the links :) </p>
+<p>If you want to get in touch with me, you can go to the links below </p>
 <div align="center">
 <br>
   <a href="https://instagram.com/eduhcw" target="_blank">
@@ -68,7 +68,7 @@
 <br/>
 
 <div>
-    <p align="justify">My Instagram and Discord is nothing professional, please don't use anything on this medias as metric for any recruiter test</p>
+    <p align="justify">🚨 My Instagram and Discord is nothing professional, please don't use anything on this medias as metric for any recruiter test 🚨</p>
 </div>
 <div align="center">
     <a href="https://visitor-badge.laobi.icu/badge?page_id=Hyriuky.Hyriuky"><img src="https://visitor-badge.laobi.icu/badge?page_id=Hyriuky.Hyriuky" align=> </a>
