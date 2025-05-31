@@ -1,15 +1,15 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
-    <h2 align="center"><strong>Wellcome to my GitHub!</strong></h2>
-  <p>I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "Jovem Programador", an initiative of SEPROSC and SENAC</p>
+    <h2 align="center"><strong>✨ Wellcome to my GitHub! ✨</strong></h2>
+  <p>Hello! I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "Jovem Programador", an initiative of SEPROSC and SENAC</p>
   <p>Currently focused on learning web development</p>
 </div>
 
 <br/>
 
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
-    <h2 align="center">Some programming stats</h2>
+    <h2 align="center">👨‍💻 Some programming stats 👨‍💻</h2>
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
-    <h2 align="center">What i listen on Spotify</h2>
+    <h2 align="center">🎶´What i listen on Spotify 🎶</h2>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
 <br/>
 
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
-    <h2 align="center">My social media and contact</h2>
+    <h2 align="center">📸 My social media and contact 📸</h2>
 </div>
 
 <p>I'm very grateful for you to seeing that, if you want to contact me and talk about anything or just play something, there is the links :) </p>
