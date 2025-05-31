@@ -14,8 +14,16 @@
 
 <br/>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hyriuky&show_icons=true&count_private=true&hide_border=true&title_color=0074FF&icon_color=0074FF&text_color=FFFFFF&bg_color=0d1117" alt="Eduardo Cardoso github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyriuky&layout=compact&hide_border=true&title_color=0074FF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyriuky&show_icons=true&theme=syntwave" alt="GitHub Stats"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyriuky&theme=github_dark" alt="Profile Summary"/>
+
+  <img src="https://streak-stats.demolab.com?user=Hyriuky&theme=github_dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
