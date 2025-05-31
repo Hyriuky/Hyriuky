@@ -21,7 +21,7 @@
 <br/>
 
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
-    <h2 align="center">🎶´What i listen on Spotify 🎶</h2>
+    <h2 align="center">🎶 What i listen on Spotify 🎶</h2>
 </div>
 
 <br/>
