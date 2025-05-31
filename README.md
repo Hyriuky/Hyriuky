@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD041 -->
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
     <h2 align="center"><strong>Wellcome to my GitHub!</strong></h2>
-  <p>I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "Jovem Programador", an initiative of SEPROSC and carried out by SENAC</p>
+  <p>I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "Jovem Programador", an initiative of SEPROSC and SENAC</p>
   <p>Currently focused on learning web development</p>
 </div>
 
@@ -55,10 +55,11 @@
   </a> 
   <a href = "mailto:eduardo.co22@aluno.ifsc.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-<br>
 </div>
 
+<br/>
+
 <div>
-<p align="justify">On Instagram or Discord, is nothing professional, please don't use anything on this medias as metric for any recruiter test</p>
+    <p align="justify">My Instagram and Discord is nothing professional, please don't use anything on this medias as metric for any recruiter test</p>
 </div>
 
