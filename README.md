@@ -70,4 +70,7 @@
 <div>
     <p align="justify">My Instagram and Discord is nothing professional, please don't use anything on this medias as metric for any recruiter test</p>
 </div>
+<div>
+    teste ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Hyriuky.Hyriuky)
+</div>
 
