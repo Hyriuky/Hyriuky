@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD041 -->
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
     <h2 align="center"><strong>✨ Wellcome to my GitHub! ✨</strong></h2>
-  <p>Hello! I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "<a href="https://www.jovemprogramador.com.br">Jovem Programador</a>"</p>
+  <p>Hello! I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "<a href="https://www.jovemprogramador.com.br">Jovem Programador</a>" program!</p>
   <p>Currently focused on learning web development</p>
 </div>
 
