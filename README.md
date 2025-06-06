@@ -68,8 +68,5 @@
 <br/>
 
 <div>
-    <p align="justify">🚨 My Instagram and Discord is nothing professional, please don't use anything on this medias as metric for any recruiter test 🚨</p>
-</div>
-<div align="center">
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=Hyriuky.Hyriuky"><img src="https://visitor-badge.laobi.icu/badge?page_id=Hyriuky.Hyriuky" align=> </a>
+    <p align="center">🚨 My Instagram and Discord is nothing professional, please don't use anything on this medias as metric for any recruiter test 🚨</p>
 </div>
