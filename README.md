@@ -3,7 +3,7 @@
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
     <h2 align="center"><strong>✨ Wellcome to my GitHub! ✨</strong></h2>
   <p>Hello! I'm an Analysis and Development student at Instituto Federal de Santa Catarina (IFSC) and i'm also part of the "<a href="https://www.jovemprogramador.com.br">Jovem Programador</a>" program!</p>
-  <p>Currently focused on learning web development</p>
+  <p>Currently focused on learning web development. Participating in the <a href="https://web.dio.me/track/orange-tech-backend">Orange Tech Backend Bootcamp</a> and <a href="https://web.dio.me/track/santander-2025-java-back-end">Santander 2025 Bootcamp - Back-End with Java</a>.</p>
 </div>
 
 <br/>
