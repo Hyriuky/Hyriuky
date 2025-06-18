@@ -23,7 +23,7 @@
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyriuky&theme=github_dark" alt="Profile Summary"/>
 
-  <img src="https://streak-stats.demolab.com?user=Hyriuky&theme=github_dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hyriuky&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
